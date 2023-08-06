@@ -499,8 +499,7 @@ footer
   transform: translateY(15em);
   scale: 0.5;
 }
- }
- .seconddesc
+.seconddesc
  {
   max-width: 72.5%;
  }
@@ -521,4 +520,6 @@ div.nest
 {
   transform: translateX(-18em);
 }
+ }
+ 
 
